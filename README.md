@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wafula-dave
 - 👀 I’m interested in Cloud, Cybersecurity and Coding. 
-- 🌱 I’m currently learning AWS and malware Analysis. 
+- 🌱 I’m learning Python, ReactJs, AWS, and Malware Analysis. 
 - 💞️ I’m looking to collaborate on tech projects. 
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: ... I love travelling
